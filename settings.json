@@ -2,13 +2,13 @@
   "name": "Bot67",
   "bot-account": {
     "username": "YourBotUsername",
-    "password": "",
-    "type": "offline"
+    "password": "aerberbot",
+    "type": "online"
   },
   "server": {
     "ip": "searmocha-8XAK.aternos.me",
     "port": 21594,
-    "version": "",
+    "version": "1.21.20",
     "try-creative": false
   },
   "position": {
