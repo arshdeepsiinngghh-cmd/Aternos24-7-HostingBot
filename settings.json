@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "searmocha-8XAK.aternos.me",
+    "port": 21594,
     "version": "",
     "try-creative": false
   },
